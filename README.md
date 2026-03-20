@@ -2,7 +2,7 @@
 A landing for recruiters and wanderers
 
 ## Intro
-Hello, world! Welcome to my GitHub.  If youv'e come here looking for proof of what I can accomplish as a highly-skilled, professional engineer, I've only recently working on that (mid-March 2026).
+Hello, world! Welcome to my GitHub.  If you've come here looking for proof of what I can accomplish as a highly-skilled, professional engineer, I've only recently working on that (mid-March 2026).
 
 Historically, my GitHub has not been intended as a portfolio, a showcase, or anything like that.  I haven't really been building things to show other people.  I have used GitHub to mess around with things forever, and what better place to log your progress, sometimes just for the case of easily transferring it among different computers.  My projects have no management, no actions (unless I happen to be experimenting with them), and in general, no intended audience.
 
