@@ -1,2 +1,7 @@
 */.idea/*.xml
 node_modules/
+
+## Jetbrains
+.idea/compiler.xml
+material_theme_project_new.xml
+.idea/codeStyles/codeStyleConfig.xml
