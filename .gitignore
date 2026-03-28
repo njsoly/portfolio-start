@@ -1,7 +1,10 @@
-*/.idea/*.xml
+## package caches
 node_modules/
+__pycache__/
 
 ## Jetbrains
+*/.idea/*.xml
 .idea/compiler.xml
-material_theme_project_new.xml
-.idea/codeStyles/codeStyleConfig.xml
+**/material_theme_project_new.xml
+**/.idea/codeStyles/codeStyleConfig.xml
+**/.idea/inspectionProfiles/
