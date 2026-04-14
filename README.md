@@ -14,8 +14,9 @@ Some other key differences between here and work:
 - You might find convoluted designs, where for some reason I call another language, or just do other extraneous business.  That happens sometimes when I just want to train up on that outside nonsense, or even compare how I would do it vs. another way to try.
 
 ## What's Here Now
+### Intended as Portfolio / Skills Development
 - [tinker-with-react](https://github.com/njsoly/tinker-with-react) is something I've made to get acquainted with React.  I have no professional experience, and at the beginning, it might be mostly vibe-coded
-- [This project](https://github.com/njsoly/portfolio-start) will contain small dabbles as I get going, should I deem them too small for a new repo.
+- [This project (portfolio-start)](https://github.com/njsoly/portfolio-start) will contain small dabbles as I get going, should I deem them too small for a new repo.
 
 ### Older Projects
 - [stocks](https://github.com/njsoly/stocks) (Kotlin/Spring Boot): I started my [stocks](https://github.com/njsoly/stocks) project in the Summer of 2020, when everybody was having fun getting into trading.
