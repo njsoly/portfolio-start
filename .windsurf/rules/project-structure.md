@@ -4,7 +4,7 @@ description:
 globs: 
 ---
 
-# Project structure
+# Project structure for portfolio-start
 
 ## Python
 ### Maintainability
