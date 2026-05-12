@@ -13,4 +13,5 @@ set -e
 ```
 
 ## Help text
-Bash scripts longer than 8 lines should have a `--help|-h` option that prints a helpful message.
+Bash scripts longer than 8 lines should have a `--help|-h` option that prints a helpful message, describing the purpose.
+Usage information is not necessary if the only options are no arguments or `[--help|-h]`.
