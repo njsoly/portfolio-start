@@ -222,7 +222,7 @@ def shout(fn):
     return wrapper
 
 @shout
-def greet(name): return f"hello {name}"
+def greet(name): return f"hello, {name}"
 print(greet("world"))
 
 # (b) Binary matmul operator (PEP 465). Built-in types don't implement it,
