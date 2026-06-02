@@ -20,12 +20,13 @@ except KeyError as e:
         f"Set it in {SECRETS_PATH} or a local .env file."
     )
 
-BASE_URL = os.environ.get("HA_BASE_URL", "http://njsoly-raz5-ha:8123")
+BASE_URL = os.environ.get("HA_BASE_URL", "http://homeassistant.local:8123")
 
-url = f"{BASE_URL}/api/"
-headers = {"Authorization": f"Bearer {TOKEN}"}
+healthcheckUrl = f"{BASE_URL}/api/"
+headers: dict[str, str] = {"Authorization": f"Bearer {TOKEN}"}
 
-response = requests.get(url, headers=headers, timeout=10)
+
+response = requests.get(healthcheckUrl, headers = headers, timeout = 10)
 response.raise_for_status()
 
 print(response.text)
