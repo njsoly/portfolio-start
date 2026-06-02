@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # Load secrets from a file outside the repo (chmod 600).
 # Falls back to a local .env (gitignored) if the user-level one isn't there.
-SECRETS_PATH = Path.home() / ".config" / "home-ass.env"
+SECRETS_PATH: Path = Path.home() / ".config" / "home-ass.env"
 if SECRETS_PATH.is_file():
     load_dotenv(SECRETS_PATH)
 else:
