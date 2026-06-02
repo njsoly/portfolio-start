@@ -13,7 +13,7 @@ else:
     load_dotenv()  # looks for ./.env
 
 try:
-    TOKEN = os.environ["FRAMEWORK_LLAT"]
+    TOKEN = os.environ["HA_LLAT"]
 except KeyError as e:
     raise SystemExit(
         f"Missing env var {e.args[0]}. "
