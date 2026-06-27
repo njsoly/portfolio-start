@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/clikt-tinker.iml" filepath="$PROJECT_DIR$/clikt-tinker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clikt-tinker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/clikt-tinker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clikt-tinker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/clikt-tinker.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/portfolio-start.iml" filepath="$PROJECT_DIR$/.idea/portfolio-start.iml" />
     </modules>
   </component>

@@ -8,6 +8,13 @@ __pycache__/
 **/material_theme_project_new.xml
 **/.idea/codeStyles/codeStyleConfig.xml
 **/.idea/inspectionProfiles/
+.idea/modules/
+.idea/libraries/
+.idea/awsToolkit.xml
+**/.idea/dataSources/
 
 ## Jetbrains exceptions
 ^.idea/runConfigurations
+^**/.idea/runConfigurations
+
+
